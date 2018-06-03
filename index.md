@@ -1,8 +1,6 @@
-# CudaText
-
 CudaText is a cross-platform text editor, written in Lazarus. It is fully open source, see Wiki info.
 
-Features include:
+### Features include
 
 - Syntax highlight for many languages: C, C++, JavaScript, HTML, CSS, PHP, Python, XML etc. 200+ syntax lexers exist.
 - Code tree (tree structure of functions/classes/etc in source).
@@ -23,7 +21,7 @@ Features include:
 - Customizable hotkeys.
 - Binary/Hex viewer for files of unlimited size.
 
-Features for HTML/CSS coding:
+### Features for HTML/CSS coding
 
 - Smart auto-completion for HTML, CSS.
 - HTML tags completion with Tab-key (Snippets plugin).
@@ -31,10 +29,6 @@ Features for HTML/CSS coding:
 - Show pictures inside editor area (jpeg/png/gif/bmp/ico).
 - Show tooltip when mouse moves over picture tag, entity, color value.
 
-## Gallery
+### Gallery
 
 ![img/cudatext-main.png](Multi-selections, Replace dialog at bottom)
-
-```markdown
-[Link](url) 
-```
