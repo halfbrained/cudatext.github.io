@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# CudaText
 
-You can use the [editor on GitHub](https://github.com/CudaText/cudatext.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CudaText is a cross-platform text editor, written in Lazarus. It is fully open source, see Wiki info.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Features include:
 
-### Markdown
+- Syntax highlight for many languages: C, C++, JavaScript, HTML, CSS, PHP, Python, XML etc. 200+ syntax lexers exist.
+- Code tree (tree structure of functions/classes/etc in source).
+- Code folding.
+- Multi-carets and multi-selections.
+- Find/Replace with reg. ex.
+- Plugins in Python language. Plugins can do lot of things.
+- Configs in JSON. Supports lexer-specific configs.
+- Tabbed UI.
+- Split each tab.
+- Split view for 2/3/4/6 files.
+- Simple auto-completion (fixed list) for some lexers.
+- Command palette (ST3 style).
+- Minimap.
+- Micromap.
+- Show unprinted whitespace.
+- Support for many encodings.
+- Customizable hotkeys.
+- Binary/Hex viewer for files of unlimited size.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Features for HTML/CSS coding:
+
+- Smart auto-completion for HTML, CSS.
+- HTML tags completion with Tab-key (Snippets plugin).
+- HTML color codes (#rgb, #rrggbb) underline.
+- Show pictures inside editor area (jpeg/png/gif/bmp/ico).
+- Show tooltip when mouse moves over picture tag, entity, color value.
+
+## Gallery
+
+![img/cudatext-main.png](Multi-selections, Replace dialog at bottom)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](url) 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CudaText/cudatext.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
