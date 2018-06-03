@@ -31,4 +31,10 @@ CudaText is a cross-platform text editor, written in Lazarus. It is fully open s
 
 ### Gallery
 
-![Multi-selections, Replace dialog at bottom](img/cudatext-main.png)
+![](img/cudatext-main.png)
+
+_Multi-selections, Replace dialog at bottom_
+
+![](img/cudatext-2groups.png)
+
+_2 groups shown_
